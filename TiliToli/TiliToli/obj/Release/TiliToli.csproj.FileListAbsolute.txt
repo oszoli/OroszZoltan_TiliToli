@@ -1,0 +1,14 @@
+D:\Letöltések\TiliToli\TiliToli\bin\Release\TiliToli.exe.config
+D:\Letöltések\TiliToli\TiliToli\bin\Release\TiliToli.exe
+D:\Letöltések\TiliToli\TiliToli\bin\Release\TiliToli.pdb
+D:\Letöltések\TiliToli\TiliToli\obj\Release\MainWindow.g.cs
+D:\Letöltések\TiliToli\TiliToli\obj\Release\App.g.cs
+D:\Letöltések\TiliToli\TiliToli\obj\Release\TiliToli_MarkupCompile.cache
+D:\Letöltések\TiliToli\TiliToli\obj\Release\TiliToli_MarkupCompile.lref
+D:\Letöltések\TiliToli\TiliToli\obj\Release\MainWindow.baml
+D:\Letöltések\TiliToli\TiliToli\obj\Release\TiliToli.g.resources
+D:\Letöltések\TiliToli\TiliToli\obj\Release\TiliToli.Properties.Resources.resources
+D:\Letöltések\TiliToli\TiliToli\obj\Release\TiliToli.csproj.GenerateResource.cache
+D:\Letöltések\TiliToli\TiliToli\obj\Release\TiliToli.csproj.CoreCompileInputs.cache
+D:\Letöltések\TiliToli\TiliToli\obj\Release\TiliToli.exe
+D:\Letöltések\TiliToli\TiliToli\obj\Release\TiliToli.pdb
